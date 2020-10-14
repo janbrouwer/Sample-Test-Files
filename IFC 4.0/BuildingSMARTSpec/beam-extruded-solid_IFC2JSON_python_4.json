@@ -1,14 +1,14 @@
 {
   "fileSchema": "IFC.JSON-4",
   "originatingSystem": "IFC2JSON_python",
-  "timeStamp": "2020-10-12T22:03:39",
+  "timeStamp": "2020-10-14T23:19:26",
   "data": [
     {
       "type": "IfcBuilding",
       "globalId": "f8e62fc5-3fbd-4ccb-9141-d564f0da5308",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "name": "Grasshopper Building",
       "description": "GH Building",
@@ -62,14 +62,14 @@
       "globalId": "3d3abbb1-5f3a-4a05-af6d-bde757590997",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "name": "Grasshopper Project",
       "longName": "Grasshopper Project",
       "representationContexts": [
         {
           "type": "IfcGeometricRepresentationContext",
-          "ref": "3a3f9f7e-0209-41e8-9215-50647719a8f3"
+          "ref": "b414c0f1-8a6f-4607-8599-d3a4feef6e37"
         }
       ],
       "unitsInContext": {
@@ -124,7 +124,7 @@
       "globalId": "8cf0af3b-ac08-493d-ba19-558a84e81d1c",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "name": "IPE600",
       "predefinedType": "BEAM",
@@ -146,7 +146,7 @@
       "globalId": "f90411c4-f72d-46e8-9da8-9bac65e22b81",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "objectPlacement": {
         "type": "IfcLocalPlacement",
@@ -183,11 +183,11 @@
         "representations": [
           {
             "type": "IfcShapeRepresentation",
-            "ref": "3319b79b-4087-44db-80a4-fe5593308d3f"
+            "ref": "a872f00f-0359-4faf-91d6-9c6d81156587"
           },
           {
             "type": "IfcShapeRepresentation",
-            "ref": "000ee3d9-3292-4bc2-ae98-f1d23acf799c"
+            "ref": "74d436ff-166a-4c06-b700-716eeddf7893"
           }
         ]
       },
@@ -214,7 +214,7 @@
       "type": "IfcShapeRepresentation",
       "contextOfItems": {
         "type": "IfcGeometricRepresentationSubContext",
-        "ref": "7fa333d5-0597-435a-a94d-461fcf7345de"
+        "ref": "43345692-2db3-426e-8ef0-6d8ac80aae00"
       },
       "representationIdentifier": "Axis",
       "representationType": "Curve3D",
@@ -247,22 +247,22 @@
           "representations": [
             {
               "type": "IfcShapeRepresentation",
-              "ref": "3319b79b-4087-44db-80a4-fe5593308d3f"
+              "ref": "a872f00f-0359-4faf-91d6-9c6d81156587"
             },
             {
               "type": "IfcShapeRepresentation",
-              "ref": "000ee3d9-3292-4bc2-ae98-f1d23acf799c"
+              "ref": "74d436ff-166a-4c06-b700-716eeddf7893"
             }
           ]
         }
       ],
-      "globalId": "3319b79b-4087-44db-80a4-fe5593308d3f"
+      "globalId": "a872f00f-0359-4faf-91d6-9c6d81156587"
     },
     {
       "type": "IfcShapeRepresentation",
       "contextOfItems": {
         "type": "IfcGeometricRepresentationSubContext",
-        "ref": "f47ba52d-80b6-415e-a5b9-a00232a12de0"
+        "ref": "6c4e240a-baff-484f-b260-d959d5a53ea7"
       },
       "representationIdentifier": "Body",
       "representationType": "SweptSolid",
@@ -306,16 +306,16 @@
           "representations": [
             {
               "type": "IfcShapeRepresentation",
-              "ref": "3319b79b-4087-44db-80a4-fe5593308d3f"
+              "ref": "a872f00f-0359-4faf-91d6-9c6d81156587"
             },
             {
               "type": "IfcShapeRepresentation",
-              "ref": "000ee3d9-3292-4bc2-ae98-f1d23acf799c"
+              "ref": "74d436ff-166a-4c06-b700-716eeddf7893"
             }
           ]
         }
       ],
-      "globalId": "000ee3d9-3292-4bc2-ae98-f1d23acf799c"
+      "globalId": "74d436ff-166a-4c06-b700-716eeddf7893"
     },
     {
       "type": "IfcOwnerHistory",
@@ -344,7 +344,7 @@
       "changeAction": "ADDED",
       "lastModifiedDate": 1402094752,
       "creationDate": 1402094752,
-      "globalId": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+      "globalId": "b4964549-77de-4966-abcc-324d58c98ad6"
     },
     {
       "type": "IfcGeometricRepresentationContext",
@@ -388,14 +388,14 @@
       "hasSubContexts": [
         {
           "type": "IfcGeometricRepresentationSubContext",
-          "ref": "7fa333d5-0597-435a-a94d-461fcf7345de"
+          "ref": "43345692-2db3-426e-8ef0-6d8ac80aae00"
         },
         {
           "type": "IfcGeometricRepresentationSubContext",
-          "ref": "f47ba52d-80b6-415e-a5b9-a00232a12de0"
+          "ref": "6c4e240a-baff-484f-b260-d959d5a53ea7"
         }
       ],
-      "globalId": "3a3f9f7e-0209-41e8-9215-50647719a8f3"
+      "globalId": "b414c0f1-8a6f-4607-8599-d3a4feef6e37"
     },
     {
       "type": "IfcGeometricRepresentationSubContext",
@@ -403,16 +403,16 @@
       "contextType": "Model",
       "parentContext": {
         "type": "IfcGeometricRepresentationContext",
-        "ref": "3a3f9f7e-0209-41e8-9215-50647719a8f3"
+        "ref": "b414c0f1-8a6f-4607-8599-d3a4feef6e37"
       },
       "targetView": "MODEL_VIEW",
       "representationsInContext": [
         {
           "type": "IfcShapeRepresentation",
-          "ref": "3319b79b-4087-44db-80a4-fe5593308d3f"
+          "ref": "a872f00f-0359-4faf-91d6-9c6d81156587"
         }
       ],
-      "globalId": "7fa333d5-0597-435a-a94d-461fcf7345de"
+      "globalId": "43345692-2db3-426e-8ef0-6d8ac80aae00"
     },
     {
       "type": "IfcGeometricRepresentationSubContext",
@@ -420,23 +420,23 @@
       "contextType": "Model",
       "parentContext": {
         "type": "IfcGeometricRepresentationContext",
-        "ref": "3a3f9f7e-0209-41e8-9215-50647719a8f3"
+        "ref": "b414c0f1-8a6f-4607-8599-d3a4feef6e37"
       },
       "targetView": "MODEL_VIEW",
       "representationsInContext": [
         {
           "type": "IfcShapeRepresentation",
-          "ref": "000ee3d9-3292-4bc2-ae98-f1d23acf799c"
+          "ref": "74d436ff-166a-4c06-b700-716eeddf7893"
         }
       ],
-      "globalId": "f47ba52d-80b6-415e-a5b9-a00232a12de0"
+      "globalId": "6c4e240a-baff-484f-b260-d959d5a53ea7"
     },
     {
       "type": "IfcRelContainedInSpatialStructure",
       "globalId": "85da3c75-e250-42d1-9151-f8529953c039",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "name": "Building",
       "description": "Building Container for Elements",
@@ -456,7 +456,7 @@
       "globalId": "8c324abe-a4ee-4e97-8487-932be8e06166",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "name": "Project Container",
       "description": "Project Container for Buildings",
@@ -476,7 +476,7 @@
       "globalId": "d93de3be-d641-4069-9506-c8f54e288638",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "name": "MatAssoc",
       "description": "Material Associates",
@@ -527,7 +527,7 @@
       "globalId": "240e1410-3463-4db7-b1fa-fde240b50996",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "name": "IPE600",
       "relatedObjects": [
@@ -546,7 +546,7 @@
       "globalId": "0985cf6f-d5f9-4b91-94f5-7b46f483e10d",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "d87c9e19-a05d-44b9-a572-2d398ba6f03b"
+        "ref": "b4964549-77de-4966-abcc-324d58c98ad6"
       },
       "name": "MatAssoc",
       "description": "Material Associates",

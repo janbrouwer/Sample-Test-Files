@@ -1,21 +1,21 @@
 {
   "fileSchema": "IFC.JSON-4",
   "originatingSystem": "IFC2JSON_python",
-  "timeStamp": "2020-10-12T22:03:40",
+  "timeStamp": "2020-10-14T23:19:28",
   "data": [
     {
       "type": "IfcProject",
       "globalId": "b27498a2-95cd-4b7a-aaf7-a3b98a9a5bde",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "ee3133a3-6d78-40bd-bb9e-5223783f8118"
+        "ref": "7fbb2191-6825-49a4-bc88-99ea26c7a31f"
       },
       "name": "Grasshopper Project",
       "longName": "Grasshopper Project",
       "representationContexts": [
         {
           "type": "IfcGeometricRepresentationContext",
-          "ref": "2df74acf-3db3-4eaa-b110-bab20b1253be"
+          "ref": "a13d9e14-b56f-452b-bb93-fd902eeca3f2"
         }
       ],
       "unitsInContext": {
@@ -70,7 +70,7 @@
       "globalId": "f4f72f0c-67c0-4cde-97c2-0c76efa09ff7",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "ee3133a3-6d78-40bd-bb9e-5223783f8118"
+        "ref": "7fbb2191-6825-49a4-bc88-99ea26c7a31f"
       },
       "name": "Grasshopper Building",
       "description": "GH Building",
@@ -123,7 +123,7 @@
       "globalId": "6b58b9d8-ba0b-4782-b302-bb9aa3cc410f",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "ee3133a3-6d78-40bd-bb9e-5223783f8118"
+        "ref": "7fbb2191-6825-49a4-bc88-99ea26c7a31f"
       },
       "name": "BuildingElementProxy",
       "objectPlacement": {
@@ -161,7 +161,7 @@
         "representations": [
           {
             "type": "IfcShapeRepresentation",
-            "ref": "753b1e95-4f9c-48e0-a657-82b5f149661a"
+            "ref": "1d8ef264-49b6-4980-bbb6-50b1c87ffd9f"
           }
         ]
       },
@@ -177,7 +177,7 @@
       "type": "IfcShapeRepresentation",
       "contextOfItems": {
         "type": "IfcGeometricRepresentationContext",
-        "ref": "2df74acf-3db3-4eaa-b110-bab20b1253be"
+        "ref": "a13d9e14-b56f-452b-bb93-fd902eeca3f2"
       },
       "representationIdentifier": "Body",
       "representationType": "AdvancedBrep",
@@ -1955,12 +1955,12 @@
           "representations": [
             {
               "type": "IfcShapeRepresentation",
-              "ref": "753b1e95-4f9c-48e0-a657-82b5f149661a"
+              "ref": "1d8ef264-49b6-4980-bbb6-50b1c87ffd9f"
             }
           ]
         }
       ],
-      "globalId": "753b1e95-4f9c-48e0-a657-82b5f149661a"
+      "globalId": "1d8ef264-49b6-4980-bbb6-50b1c87ffd9f"
     },
     {
       "type": "IfcOwnerHistory",
@@ -1988,7 +1988,7 @@
       "changeAction": "ADDED",
       "lastModifiedDate": 1338465163,
       "creationDate": 1338465163,
-      "globalId": "ee3133a3-6d78-40bd-bb9e-5223783f8118"
+      "globalId": "7fbb2191-6825-49a4-bc88-99ea26c7a31f"
     },
     {
       "type": "IfcGeometricRepresentationContext",
@@ -2033,17 +2033,17 @@
       "representationsInContext": [
         {
           "type": "IfcShapeRepresentation",
-          "ref": "753b1e95-4f9c-48e0-a657-82b5f149661a"
+          "ref": "1d8ef264-49b6-4980-bbb6-50b1c87ffd9f"
         }
       ],
-      "globalId": "2df74acf-3db3-4eaa-b110-bab20b1253be"
+      "globalId": "a13d9e14-b56f-452b-bb93-fd902eeca3f2"
     },
     {
       "type": "IfcRelContainedInSpatialStructure",
       "globalId": "15baecb3-6625-477c-a5d6-56b8cdb6ebb4",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "ee3133a3-6d78-40bd-bb9e-5223783f8118"
+        "ref": "7fbb2191-6825-49a4-bc88-99ea26c7a31f"
       },
       "name": "Building",
       "description": "Building Container for Elements",
@@ -2063,7 +2063,7 @@
       "globalId": "8c0568ec-574e-4208-8330-e82da31da658",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "ee3133a3-6d78-40bd-bb9e-5223783f8118"
+        "ref": "7fbb2191-6825-49a4-bc88-99ea26c7a31f"
       },
       "name": "Project Container",
       "description": "Project Container for Buildings",

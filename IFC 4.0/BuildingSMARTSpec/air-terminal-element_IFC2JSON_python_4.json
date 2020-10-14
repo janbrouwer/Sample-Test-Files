@@ -1,24 +1,24 @@
 {
   "fileSchema": "IFC.JSON-4",
   "originatingSystem": "IFC2JSON_python",
-  "timeStamp": "2020-10-12T22:03:38",
+  "timeStamp": "2020-10-14T23:19:24",
   "data": [
     {
       "type": "IfcProject",
       "globalId": "2fb45857-e9ac-4660-8943-604b07b54025",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Project",
       "representationContexts": [
         {
           "type": "IfcGeometricRepresentationContext",
-          "ref": "5fbc0845-2ed1-45c6-83ff-fca756a695ff"
+          "ref": "fc3470fe-ad72-49bb-939a-1e4aaf630308"
         },
         {
           "type": "IfcGeometricRepresentationContext",
-          "ref": "78bd5457-fed6-4e40-bc04-955bda8a0b3f"
+          "ref": "91fd1ce0-8dd6-4df6-8988-8a36accfb89d"
         }
       ],
       "unitsInContext": {
@@ -75,7 +75,7 @@
       "globalId": "2f493396-cbb5-48f1-900b-1f9d01b12b16",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "HVAC Product Type Library Example",
       "description": "Demonstrates an air terminal type which may be instantiated in buildings within referencing files.",
@@ -83,7 +83,7 @@
       "representationContexts": [
         {
           "type": "IfcGeometricRepresentationContext",
-          "ref": "5fbc0845-2ed1-45c6-83ff-fca756a695ff"
+          "ref": "fc3470fe-ad72-49bb-939a-1e4aaf630308"
         }
       ],
       "unitsInContext": {
@@ -146,7 +146,7 @@
       "globalId": "c46cb661-483e-412c-963c-797c8689b399",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Pset_AirTerminalTypeCommon",
       "hasProperties": [
@@ -207,7 +207,7 @@
       "globalId": "95580094-1679-4fb0-b7dd-ce97aa631bc4",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Pset_ManufacturerTypeInformation",
       "hasProperties": [
@@ -296,7 +296,7 @@
       "globalId": "4f39c682-589e-4c1f-b8a0-8f34be56f32b",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Acme Diffuser 1234",
       "description": "Ceiling diffuser",
@@ -326,7 +326,7 @@
           },
           "mappedRepresentation": {
             "type": "IfcShapeRepresentation",
-            "ref": "44224a4d-8482-46ba-9a25-1c59106d7c22"
+            "ref": "4e3b70f4-8856-420e-8419-91c3bb5d6c83"
           }
         }
       ],
@@ -361,7 +361,7 @@
       "globalId": "2f310718-4379-44c3-8146-81ca22e3d5ea",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Inlet",
       "objectPlacement": {
@@ -403,7 +403,7 @@
       "globalId": "d69d1da5-3510-4bd5-a892-feeb64557164",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Pset_DistributionPortCommon",
       "description": "Common attributes attached to an instance of IfcDistributionPort.",
@@ -420,7 +420,7 @@
       "globalId": "440957e2-c596-460a-9b2a-307ddebe3c5d",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Pset_DistributionPortTypeAirConditioning",
       "hasProperties": [
@@ -537,7 +537,7 @@
       "globalId": "75a72ffd-1d99-4c92-8569-15c6104137c5",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "IFC4",
       "hasContext": [
@@ -558,7 +558,7 @@
       "globalId": "6d313a7d-0bf7-4f08-947f-80599436ab30",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "compositionType": "ELEMENT",
       "decomposes": [
@@ -579,7 +579,7 @@
       "globalId": "703c0f93-955f-4bdc-a8c0-41e62f30f3bb",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "objectPlacement": {
         "type": "IfcLocalPlacement",
@@ -600,7 +600,7 @@
         "representations": [
           {
             "type": "IfcShapeRepresentation",
-            "ref": "7ae531db-4012-4545-a79e-ee3347e9c4fc"
+            "ref": "cfb8ac4b-daec-486d-9daf-8d319e556c67"
           }
         ]
       },
@@ -629,7 +629,7 @@
       "globalId": "1f45e60b-c79b-4422-977b-82adb1b73462",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Inlet",
       "objectPlacement": {
@@ -681,7 +681,7 @@
       "globalId": "dd08c94f-f7a6-40b5-90da-042c4b0733f8",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Duct Segment #1",
       "objectPlacement": {
@@ -747,11 +747,11 @@
         "representations": [
           {
             "type": "IfcShapeRepresentation",
-            "ref": "7ab4f1fa-d77d-42e6-8abf-2d22104e24b9"
+            "ref": "1789f026-c8b1-4f76-b1b4-300f986f1c6a"
           },
           {
             "type": "IfcShapeRepresentation",
-            "ref": "6369ea10-0581-4d27-94ce-7ddc0fbf1631"
+            "ref": "b306ca32-00bc-44c8-8db6-6b17d61f92d8"
           }
         ]
       },
@@ -780,7 +780,7 @@
       "globalId": "cf2d93e9-5c1a-430f-a485-27450eb62d4a",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "In",
       "description": "The end of the duct segment at the flow inlet.",
@@ -887,7 +887,7 @@
       "globalId": "5be728ce-3061-4edd-9471-ccf3440f1c68",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Out",
       "description": "The end of the duct segment at the flow outlet.",
@@ -983,7 +983,7 @@
       "type": "IfcShapeRepresentation",
       "contextOfItems": {
         "type": "IfcGeometricRepresentationContext",
-        "ref": "5fbc0845-2ed1-45c6-83ff-fca756a695ff"
+        "ref": "fc3470fe-ad72-49bb-939a-1e4aaf630308"
       },
       "representationIdentifier": "Body",
       "representationType": "AdvancedSweptSolid",
@@ -1061,17 +1061,17 @@
           },
           "mappedRepresentation": {
             "type": "IfcShapeRepresentation",
-            "ref": "44224a4d-8482-46ba-9a25-1c59106d7c22"
+            "ref": "4e3b70f4-8856-420e-8419-91c3bb5d6c83"
           }
         }
       ],
-      "globalId": "44224a4d-8482-46ba-9a25-1c59106d7c22"
+      "globalId": "4e3b70f4-8856-420e-8419-91c3bb5d6c83"
     },
     {
       "type": "IfcShapeRepresentation",
       "contextOfItems": {
         "type": "IfcGeometricRepresentationContext",
-        "ref": "5fbc0845-2ed1-45c6-83ff-fca756a695ff"
+        "ref": "fc3470fe-ad72-49bb-939a-1e4aaf630308"
       },
       "representationIdentifier": "Body",
       "representationType": "MappedRepresentation",
@@ -1093,7 +1093,7 @@
             },
             "mappedRepresentation": {
               "type": "IfcShapeRepresentation",
-              "ref": "44224a4d-8482-46ba-9a25-1c59106d7c22"
+              "ref": "4e3b70f4-8856-420e-8419-91c3bb5d6c83"
             }
           },
           "mappingTarget": {
@@ -1116,18 +1116,18 @@
           "representations": [
             {
               "type": "IfcShapeRepresentation",
-              "ref": "7ae531db-4012-4545-a79e-ee3347e9c4fc"
+              "ref": "cfb8ac4b-daec-486d-9daf-8d319e556c67"
             }
           ]
         }
       ],
-      "globalId": "7ae531db-4012-4545-a79e-ee3347e9c4fc"
+      "globalId": "cfb8ac4b-daec-486d-9daf-8d319e556c67"
     },
     {
       "type": "IfcShapeRepresentation",
       "contextOfItems": {
         "type": "IfcGeometricRepresentationContext",
-        "ref": "5fbc0845-2ed1-45c6-83ff-fca756a695ff"
+        "ref": "fc3470fe-ad72-49bb-939a-1e4aaf630308"
       },
       "representationIdentifier": "Axis",
       "representationType": "Curve3D",
@@ -1160,22 +1160,22 @@
           "representations": [
             {
               "type": "IfcShapeRepresentation",
-              "ref": "7ab4f1fa-d77d-42e6-8abf-2d22104e24b9"
+              "ref": "1789f026-c8b1-4f76-b1b4-300f986f1c6a"
             },
             {
               "type": "IfcShapeRepresentation",
-              "ref": "6369ea10-0581-4d27-94ce-7ddc0fbf1631"
+              "ref": "b306ca32-00bc-44c8-8db6-6b17d61f92d8"
             }
           ]
         }
       ],
-      "globalId": "7ab4f1fa-d77d-42e6-8abf-2d22104e24b9"
+      "globalId": "1789f026-c8b1-4f76-b1b4-300f986f1c6a"
     },
     {
       "type": "IfcShapeRepresentation",
       "contextOfItems": {
         "type": "IfcGeometricRepresentationContext",
-        "ref": "5fbc0845-2ed1-45c6-83ff-fca756a695ff"
+        "ref": "fc3470fe-ad72-49bb-939a-1e4aaf630308"
       },
       "representationIdentifier": "Body",
       "representationType": "SweptSolid",
@@ -1216,16 +1216,16 @@
           "representations": [
             {
               "type": "IfcShapeRepresentation",
-              "ref": "7ab4f1fa-d77d-42e6-8abf-2d22104e24b9"
+              "ref": "1789f026-c8b1-4f76-b1b4-300f986f1c6a"
             },
             {
               "type": "IfcShapeRepresentation",
-              "ref": "6369ea10-0581-4d27-94ce-7ddc0fbf1631"
+              "ref": "b306ca32-00bc-44c8-8db6-6b17d61f92d8"
             }
           ]
         }
       ],
-      "globalId": "6369ea10-0581-4d27-94ce-7ddc0fbf1631"
+      "globalId": "b306ca32-00bc-44c8-8db6-6b17d61f92d8"
     },
     {
       "type": "IfcOwnerHistory",
@@ -1253,7 +1253,7 @@
       "state": "READWRITE",
       "changeAction": "NOTDEFINED",
       "creationDate": 1321055806,
-      "globalId": "631d234d-c7b3-46e7-93e2-f204fa845434"
+      "globalId": "80ff5881-83bb-471d-b824-823f15f58e81"
     },
     {
       "type": "IfcGeometricRepresentationContext",
@@ -1275,22 +1275,22 @@
       "representationsInContext": [
         {
           "type": "IfcShapeRepresentation",
-          "ref": "44224a4d-8482-46ba-9a25-1c59106d7c22"
+          "ref": "4e3b70f4-8856-420e-8419-91c3bb5d6c83"
         },
         {
           "type": "IfcShapeRepresentation",
-          "ref": "7ae531db-4012-4545-a79e-ee3347e9c4fc"
+          "ref": "cfb8ac4b-daec-486d-9daf-8d319e556c67"
         },
         {
           "type": "IfcShapeRepresentation",
-          "ref": "7ab4f1fa-d77d-42e6-8abf-2d22104e24b9"
+          "ref": "1789f026-c8b1-4f76-b1b4-300f986f1c6a"
         },
         {
           "type": "IfcShapeRepresentation",
-          "ref": "6369ea10-0581-4d27-94ce-7ddc0fbf1631"
+          "ref": "b306ca32-00bc-44c8-8db6-6b17d61f92d8"
         }
       ],
-      "globalId": "5fbc0845-2ed1-45c6-83ff-fca756a695ff"
+      "globalId": "fc3470fe-ad72-49bb-939a-1e4aaf630308"
     },
     {
       "type": "IfcGeometricRepresentationContext",
@@ -1309,14 +1309,14 @@
           ]
         }
       },
-      "globalId": "78bd5457-fed6-4e40-bc04-955bda8a0b3f"
+      "globalId": "91fd1ce0-8dd6-4df6-8988-8a36accfb89d"
     },
     {
       "type": "IfcRelDeclares",
       "globalId": "00e292ee-b6fa-44c5-83d1-869b6c1e8f4f",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatingContext": {
         "type": "IfcProject",
@@ -1334,7 +1334,7 @@
       "globalId": "fe197d29-5144-4303-ad26-22fa0ad542a2",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatedObjects": [
         {
@@ -1354,7 +1354,7 @@
       "globalId": "cabd6417-2941-4e84-ba8b-a5914b21807b",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatingObject": {
         "type": "IfcAirTerminalType",
@@ -1372,7 +1372,7 @@
       "globalId": "a9410051-ebe6-430a-bbf7-dc459b59498f",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Pset_DistributionPortCommon",
       "relatedObjects": [
@@ -1391,7 +1391,7 @@
       "globalId": "fc08b5c5-264b-47a1-aec9-d0d255e973f9",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "Pset_DistributionPortTypeAirConditioning",
       "relatedObjects": [
@@ -1410,7 +1410,7 @@
       "globalId": "004236a3-2486-4ac9-8dcb-19f0f4371e60",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatingContext": {
         "type": "IfcProjectLibrary",
@@ -1432,7 +1432,7 @@
       "globalId": "cddf3abe-3fa9-4b5f-9acd-ddc911c94ea6",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatedObjects": [
         {
@@ -1458,7 +1458,7 @@
       "globalId": "ee5fb088-7d36-42d6-9bf0-62ec799fc4f2",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatedObjects": [
         {
@@ -1483,7 +1483,7 @@
       "globalId": "f427ca64-046f-49e9-88d1-b05ac99f5128",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatingObject": {
         "type": "IfcProject",
@@ -1501,7 +1501,7 @@
       "globalId": "d7044d40-1a28-49c8-8b63-054f2c5e4599",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatedObjects": [
         {
@@ -1519,7 +1519,7 @@
       "globalId": "d295c148-65ff-4aa4-82ed-726e36ee8946",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatingObject": {
         "type": "IfcAirTerminal",
@@ -1537,7 +1537,7 @@
       "globalId": "b6d6bd0e-d0c8-44c4-a16b-530f15ecd61f",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatedElements": [
         {
@@ -1559,7 +1559,7 @@
       "globalId": "b175304f-ae1c-47de-9f9e-5ad529c9326b",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatingObject": {
         "type": "IfcDuctSegment",
@@ -1581,7 +1581,7 @@
       "globalId": "6581d0c5-5995-48ca-96f3-cf254e6a7ca6",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "name": "IfcDuctSegment",
       "relatedObjects": [
@@ -1626,7 +1626,7 @@
       "globalId": "229fc988-e700-418c-93f0-52150398730e",
       "ownerHistory": {
         "type": "IfcOwnerHistory",
-        "ref": "631d234d-c7b3-46e7-93e2-f204fa845434"
+        "ref": "80ff5881-83bb-471d-b824-823f15f58e81"
       },
       "relatingPort": {
         "type": "IfcDistributionPort",
